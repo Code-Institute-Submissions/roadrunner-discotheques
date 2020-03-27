@@ -16,7 +16,7 @@ body {
     
 }
 
-nav-item a:active {
+.nav-item a:active {
     color: #a75656;
 }
 
@@ -109,4 +109,135 @@ footer i {
     font-weight: 300;
 }
 
+/*-------------------------------------------Jumbotron*/
+
+.jumbotron {
+    background-image: url(../images/rrdiscos-bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba (0, 0, 0, 0.25);
+    text-align: center;
+    color: #ffffff;
+    width: 100%;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-bottom: 0;
+    border-radius: 0;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-top: 40px;
+}
+
+.jumbotron-content {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.jumbotron-container {
+    padding: 0;
+    margin: 0;
+}
+
+.hr-jumbotron {
+    width: 50%;
+    height: 6px;
+    color: #fff;
+    background-color: #fff;
+    border-radius: .3rem;
+}
+
+.lead {
+    font-size: 30px;
+    font-weight: 300;
+}
+
+.btn-quote {
+    background-color: #ed2d2d;
+    color: #ffffff;
+    margin-bottom: 10px;
+    font-size: 35px;
+    min-height: 60px;
+    min-width: 50%;
+    margin-top: 20px;
+}
+
+
+@media only screen and (max-width: 700px) {
+    .jumbotron {
+        display: none;
+    }
+}
+
+.col {
+    padding: 0;
+}
+
+/*----------------------------------------------------Home--*/
+
+@media only screen and (max-width: 700px) {
+    .home-content i {
+        padding-top: 80px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .home-content i {
+        padding-top: 120px;
+    }
+}
+
+.home-content {
+    text-align: center;
+    font-weight: 300;
+    margin: 5%;
+}
+
+.home-content i {
+    font-size: 40px;
+    display: block;
+    padding-bottom: 20px;
+}
+
+.home-heading {
+    padding-bottom: 20px;
+    letter-spacing: 5px;
+}
+
+.home-about-us {
+    background-color: #ed2d2d;
+    color: #fff;
+}
+
+.home-services {
+    background-color: #343a40;
+    color: #fff;
+}
+
+.home-reviews {
+    color: #343a40;
+}
+
+.home-reviews hr {
+    color: #343a40;
+    background-color: #343a40;
+}
+
+.reviews-heading {
+    text-align: right;
+}
+
+.reviews-content {
+    text-align: left;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.hr-home {
+    width: 40%;
+    height: 5px;
+    color: #fff;
+    background-color: #fff;
+    border-radius: .3rem;
+}
 
