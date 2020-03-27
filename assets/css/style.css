@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Averia+Serif+Libre:300,400,400i,700,700i&display=swap');
+
+/*----------------------------------------------------Body--*/
+
+body {
+    font-family: "Averia Serif Libre", sans-serif;
+    width: 100%;
+}
+
+/*----------------------------------------------------Nav--*/
+
+.nav-item a {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 300;
+    
+}
+
+nav-item a:active {
+    color: #a75656;
+}
+
+.dropdown-item {
+    font-size: 16px;
+    font-weight: 300;
+    color: #fff;
+    background-color: #343a40;
+}
+
+.dropdown-item:hover {
+    background-color: #ed2d2d;
+    color: #fff;
+}
+
+.dropdown-menu {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+#nav {
+    position: fixed;
+    left: 0;
+    top: 0
+}
+
+/*----------------------------------------------------Header logo--*/
+
+.logo:hover {
+    text-decoration: none;
+    text-decoration-color: #ed2d2d;
+}
+
+.logo {
+    font-family: "Averia Serif Libre", sans-serif;
+    font-weight: 700;
+    text-decoration: none;
+    color: #ed2d2d;
+    background-color: #343a40;
+    margin-bottom: 0px;
+}
+    
