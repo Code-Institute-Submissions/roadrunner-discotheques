@@ -76,7 +76,6 @@ body {
 footer {
     position: relative;
     left: 0px;
-    right: 0px;
     bottom: 0px;
     background-color: #343a40;
     color: #fff;
@@ -141,7 +140,7 @@ footer i {
 
 .hr-jumbotron {
     width: 50%;
-    height: 6px;
+    height: 3px;
     color: #fff;
     background-color: #fff;
     border-radius: .3rem;
@@ -187,6 +186,10 @@ footer i {
     }
 }
 
+.home-container {
+    padding: 0;
+}
+
 .home-content {
     text-align: center;
     font-weight: 300;
@@ -198,6 +201,7 @@ footer i {
     display: block;
     padding-bottom: 20px;
 }
+
 
 .home-heading {
     padding-bottom: 20px;
@@ -215,12 +219,12 @@ footer i {
 }
 
 .home-reviews {
-    color: #343a40;
+  color: #ed2d2d;
 }
 
 .home-reviews hr {
-    color: #343a40;
-    background-color: #343a40;
+    color: #ed2d2d;
+    background-color: #ed2d2d;
 }
 
 .reviews-heading {
@@ -234,10 +238,95 @@ footer i {
 }
 
 .hr-home {
-    width: 40%;
-    height: 5px;
+    width: 30%;
+    height: 3px;
     color: #fff;
     background-color: #fff;
     border-radius: .3rem;
 }
 
+/*--------------------------------------------Contact--*/
+
+.contact-image {
+    background-image: url(/assets/images/rr-setup3.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-size: cover;
+}
+
+.opaque-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 120%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.contact-heading {
+    color: #fff;
+    max-height: 80%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.contact-container {
+    padding-top: 100px;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+}
+
+.form-control {
+    margin-bottom: 15px;
+    opacity: .75;
+    background-color: #d6d6d6;
+    color: #000;
+    border-color: #343a40; 
+}
+
+
+.form-control:hover {
+    background-color: #fff;
+    color: #000;
+    border-color: #343a40;
+}
+
+.center-form {
+    margin: 0 auto;
+    display: block;
+    padding-bottom: 20px;
+    width: 80%;
+}
+
+.contact-dropdown {
+    background-color: #343a40;
+    color: #fff;    
+} 
+
+.contact-dropdown:hover {
+    background-color: #ed2d2d;
+    color: #fff;
+}
+
+option:hover {
+    background-color: #ed2d2d;
+    color: #fff;
+}
+
+.row {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+
+.call {
+    text-decoration: none;
+    color: #fff;
+}
+
+.call:hover {
+    color: #ed2d2d;
+}
