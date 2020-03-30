@@ -339,6 +339,7 @@ option:hover {
     padding-bottom: 80px;
     font-weight: 300;
     text-align: center;
+    border-bottom: 5px solid #ed2d2d;
 }
 
 .services-heading {
