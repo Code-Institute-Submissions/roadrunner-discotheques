@@ -367,6 +367,12 @@ option:hover {
     max-width: 80%;
 }
 
+iframe {
+    min-width: 80%;
+    min-height: 80vh;
+
+}
+
 @media only screen and (max-width: 900px) {
     .services-heading i {
         display: none;
