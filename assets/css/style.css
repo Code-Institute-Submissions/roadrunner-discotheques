@@ -194,6 +194,7 @@ footer i {
     text-align: center;
     font-weight: 300;
     margin: 5%;
+    padding-bottom: 30px;
 }
 
 .home-content i {
@@ -321,7 +322,6 @@ option:hover {
     margin-left: 0;
 }
 
-
 .call {
     text-decoration: none;
     color: #fff;
@@ -377,6 +377,10 @@ iframe {
     .services-heading i {
         display: none;
     }
+}
+
+.photobooth {
+    margin-bottom: 50px;
 }
 
 /*--------------------------------------------Carousel--*/
