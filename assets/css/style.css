@@ -330,3 +330,33 @@ option:hover {
 .call:hover {
     color: #ed2d2d;
 }
+
+/*--------------------------------------------Services--*/
+
+.services-container {
+    background-color: #343a40;
+    color: #fff;
+    padding-bottom: 80px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.services-heading {
+    padding-top: 125px;
+    padding-bottom: 50px;
+    text-decoration: underline;
+}
+
+.services-heading i {
+    padding-right: 20px;
+    padding-left: 20px;
+    font-size: 40px;
+}
+
+.ring {
+    color: goldenrod;
+}
+
+.services-content {
+    padding-bottom: 50px;
+}
