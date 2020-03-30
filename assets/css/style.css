@@ -360,3 +360,16 @@ option:hover {
 .services-content {
     padding-bottom: 50px;
 }
+
+/*--------------------------------------------Carousel--*/
+
+.carousel {
+    margin-left: 7.5%;
+    margin-right: 7.5%;
+    border-radius: .5rem;
+}
+
+.carousel img{
+    max-height: 80vh;
+    align-content: center;
+}
