@@ -364,7 +364,7 @@ option:hover {
 
 .rounded-circle {
     min-height: 300px;
-    min-width: 300px;
+    max-width: 80%;
 }
 
 @media only screen and (max-width: 900px) {
