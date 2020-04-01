@@ -368,7 +368,6 @@ option:hover {
 }
 
 .rounded-circle {
-    min-height: 300px;
     max-width: 95%;
     padding-bottom: 30px;
 }
@@ -376,7 +375,6 @@ option:hover {
 iframe {
     min-width: 80%;
     min-height: 80vh;
-
 }
 
 @media only screen and (max-width: 900px) {
