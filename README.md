@@ -4,7 +4,7 @@ Roadrunner Discotheques provides entertainment, music and lights packages for ma
 
 ## Purpose
 
-The site is designed at the request of Hugh Naismith of Roadrunner Discotheques to allow prospective customers to view a summary of the business and the services it can provide. A contact page containing phone numbers and a contact form also allow the user to get in touch with Hugh to discuss future business. The hope is that this can bring the business to a larger audience and help with current plans to for expansion.
+The site is designed at the request of Hugh Naismith of Roadrunner Discotheques to allow prospective customers to view a summary of the business and the services it can provide. A contact page containing phone numbers and a contact form also allow the user to get in touch with Hugh to discuss future business. The hope is that this can bring the business to a larger audience and help with current plans for expansion. The site is aimed at anyone looking to plan a party or event and is looking to add those professional touches and a tailored service.
 
 ## Wireframe Mockups
 
