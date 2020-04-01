@@ -251,14 +251,15 @@ footer i {
     background-image: url(https://github.com/aralston3592/roadrunner-discotheques/blob/master/assets/images/rr-setup3.jpg?raw=true);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size: cover; 
+   
 }
 
 .opaque-overlay {
     position: absolute;
     top: 0;
     left: 0;
-    height: 100%;
+    height: 120%;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.5);
 }
