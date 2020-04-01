@@ -4,7 +4,7 @@ Roadrunner Discotheques provides entertainment, music and lights packages for ma
 
 ## Purpose
 
-The site is designed at the request of Hugh Naismith of Roadrunner Discotheques to allow prospective customers to view a summary of the business and the services it can provide. A contact page containing phone numbers and a contact form also allow the user to get in touch with Hugh to discuss future business.
+The site is designed at the request of Hugh Naismith of Roadrunner Discotheques to allow prospective customers to view a summary of the business and the services it can provide. A contact page containing phone numbers and a contact form also allow the user to get in touch with Hugh to discuss future business. The hope is that this can bring the business to a larger audience and help with current plans to for expansion.
 
 ## Wireframe Mockups
 
@@ -16,6 +16,10 @@ Before starting the project I sat with the client and put together a few wirefra
 
 As you can see there hasn't been too much shift in the design throughout the process.
 
+## Theme
+
+The red, white and charcoal theme used throughout the project was chosen to stay true to the already established colours of Roadrunner Discotheques. Charcoal was used to replace black from the company's original colour scheme to bring a softer overall feel to the site.
+
 ## UX
 
 To help provide a good UX the site was designed using [Bootstrap](https://getbootstrap.com/ "Bootstrap"), it was key in making this a mobile-first design but also makes sure that all aspects of the design are responsive to any device size. 
@@ -24,18 +28,18 @@ To help provide a good UX the site was designed using [Bootstrap](https://getboo
 
 ### Home
 
-Gives a brief description of how the company was founded and what services they provide, also allows for easy navigation to any part of the site. 
+Gives a brief description of how the company was founded and what services they provide, also allows for easy navigation to any part of the site. A Reviews section can be found near the foot of the page.
 
 ### Services
 
 Various service pages give a brief description of the packages and products on offer with Roadrunner Discotheques, all pages have a link to contact the company and visit their social media pages via the nav bar and the footer. Service pages include: 
 
-* wedding.html
-* lights.html
-* race-night.html
-* after-dinner.html
-* laser.html
-* photobooth.html
+* A page devoted to Bespoke Wedding Packages (wedding.html).
+* A page devoted to the hire and use of Lights and PA systems (lights.html).
+* A page devoted to help setting up charity Race Nights (race-night.html)
+* A page devoted to hire of an After Dinner Speaker or comic (after-dinner.html)
+* A page devoted to all Laser technology that can Roadrunner Discotheques can provide (laser.html)
+* A page devoted to Photobooth and Selfie Wizard hire (photobooth.html)
 
 ### Contact
 
