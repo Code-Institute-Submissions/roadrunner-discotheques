@@ -251,7 +251,8 @@ footer i {
     background-image: url(https://github.com/aralston3592/roadrunner-discotheques/blob/master/assets/images/rr-setup3.jpg?raw=true);
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover; 
+    background-size: cover;
+    height: 120vh; 
    
 }
 
@@ -259,7 +260,7 @@ footer i {
     position: absolute;
     top: 0;
     left: 0;
-    height: 120%;
+    height: 120vh;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.5);
 }
