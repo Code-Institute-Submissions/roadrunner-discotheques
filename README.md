@@ -1,6 +1,6 @@
 # Rodrunner Discotheques
 
-Roadrunner Discotheques provides entertainment, music and lights packages for major events and parties throughtout cental Scotland.
+Roadrunner Discotheques provides entertainment, music and lights packages for major events and parties throughtout Central Scotland.
 
 ## Purpose
 
@@ -70,7 +70,7 @@ Site was deployed using [GitHub](https://github.com/ "GitHub"):
 2. Click on SETTINGS then scroll down to GitHub PAGES.
 3. Select master branch as the SOURCE.
 4. 'Your site is published at https://aralston3592.github.io/ms1-project/' will appear on screen.
-5. Click link to view live site.
+5. Site deployed, click link to access.
 
 ## Technology Used
 
@@ -78,7 +78,7 @@ Site was deployed using [GitHub](https://github.com/ "GitHub"):
 * Programming Languages: HTML & CSS
 * Fonts & Icons: [Google Fonts](https://fonts.google.com/ "Google Fonts"), [Font Awesome](https://fontawesome.com/ "Font Awesome")
 * Javascript: [JQuery](https://jquery.com/ "JQuery"), [Cloud Flair](https://cdnjs.com/libraries/hover.css/ "Cloud Flare"), [Popper.js](https://popper.js.org/ "Popper.js")
-* Responsive Mobile-first Design Help: [Bootstrap](https://getbootstrap.com/ "Bootstrap")
+* Responsive Design: [Bootstrap](https://getbootstrap.com/ "Bootstrap")
 * IDE: [Gitpod](https://gitpod.io/ "GitPod")
-*Version Control: [Git](https://git-scm.com/ "Git")
-*Repository Host/Deployment: [GitHub](https://github.com/ "GitHub")
+* Version Control: [Git](https://git-scm.com/ "Git")
+* Repository Host/Deployment: [GitHub](https://github.com/ "GitHub")
