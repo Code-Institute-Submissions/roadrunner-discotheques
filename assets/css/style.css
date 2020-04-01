@@ -248,9 +248,9 @@ footer i {
 /*--------------------------------------------Contact--*/
 
 .contact-image {
-    background-image: url(../assets/images/rr-setup3.jpg);
+    background-image: url(https://github.com/aralston3592/roadrunner-discotheques/blob/master/assets/images/rr-setup3.jpg?raw=true);
     background-repeat: no-repeat;
-    background-position:center;
+    background-position: center;
     background-size: cover;
 }
 
@@ -258,7 +258,7 @@ footer i {
     position: absolute;
     top: 0;
     left: 0;
-    height: 120%;
+    height: 100%;
     width: 100%;
     background-color: rgba(0, 0, 0, 0.5);
 }
