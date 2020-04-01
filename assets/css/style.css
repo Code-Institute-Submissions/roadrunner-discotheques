@@ -248,7 +248,7 @@ footer i {
 /*--------------------------------------------Contact--*/
 
 .contact-image {
-    background-image: url(/assets/images/rr-setup3.jpg);
+    background-image: url(../assets/images/rr-setup3.jpg);
     background-repeat: no-repeat;
     background-position:center;
     background-size: cover;
